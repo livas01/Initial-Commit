@@ -103,7 +103,10 @@ section ul li:hover{
     height: 130px;
     width: 130px;
 }
-
+.bola img {
+    height: 120px;
+    width: 120px;
+}
 /*animation*/
 
 header div {
